@@ -18,7 +18,7 @@ SQL to get the right territory
       prefix = 128 OR
       prefix = 12 OR
       prefix = 1
-    ORDER BY LENGTH(prefix) DESC
+    ORDER BY prefix DESC
     LIMIT 1;
 
 The above will return "VG" (Virgin Islands), even though the country code is US/Canada/etc
