@@ -1,3 +1,10 @@
+CREATE TABLE `calling_codes` (
+  `prefix` int(3) unsigned NOT NULL,
+  `territory` char(2) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `comment` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
+  PRIMARY KEY (`prefix`),
+  KEY `territory_idx` (`territory`)
+);
 INSERT INTO calling_codes (prefix,territory,comment) VALUES
 (1403, 'CA', 'Alberta, Canada'),
 (1587, 'CA', 'Alberta, Canada'),
