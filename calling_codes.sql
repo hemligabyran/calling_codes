@@ -53,6 +53,7 @@ INSERT INTO calling_codes (prefix,territory,comment) VALUES
 (1721, 'SX', 'Sint Maarten'),
 (1758, 'WL', 'Saint Lucia'),
 (1767, 'DM', 'Dominica'),
+(1787, 'PR', 'Puerto Rico'),
 (1784, 'VC', 'Saint Vincent and the Grenadines'),
 (1809, 'DO', 'Dominican Republic'),
 (1829, 'DO', 'Dominican Republic'),
