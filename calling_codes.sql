@@ -182,6 +182,7 @@ INSERT INTO calling_codes (prefix,territory,comment, mobile) VALUES
 (44, 'GB', 'United Kingdom',0),
 (45, 'DK', 'Denmark',0),
 (46, 'SE', 'Sweden',0),
+(467, 'SE', 'Sweden',1),
 (47, 'NO', 'Norway',0),
 (48, 'PL', 'Poland',0),
 (49, 'DE', 'Germany',0),
