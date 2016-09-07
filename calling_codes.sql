@@ -49,6 +49,8 @@ INSERT INTO calling_codes (prefix,territory,comment, mobile) VALUES
 (1345, 'KY', 'Cayman Islands',0),
 (1441, 'BM', 'Bermuda',0),
 (1473, 'GD', 'Grenada',0),
+(1617, 'US', 'Guam',0),
+(1684, 'US', 'American Samoa',0),
 (1649, 'TC', 'Turks and Caicos Islands',0),
 (1664, 'MS', 'Montserrat',0),
 (1721, 'SX', 'Sint Maarten',0),
