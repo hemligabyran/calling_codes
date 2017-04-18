@@ -309,7 +309,7 @@ INSERT INTO calling_codes (prefix,territory,comment, mobile) VALUES
 (975, 'BT', 'Bhutan',0),
 (976, 'MN', 'Mongolia',0),
 (977, 'NP', 'Nepal',0),
-(979, NULL, 'International Premium Rate Service'',0),
+(979, NULL, 'International Premium Rate Service',0),
 (991, NULL, 'International Telecommunications Public Correspondence Service trial (ITPCS)',0),
 (992, 'TJ', 'Tajikistan',0),
 (993, 'TM', 'Turkmenistan',0),
